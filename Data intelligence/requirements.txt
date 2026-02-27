@@ -1,0 +1,13 @@
+chainlit>=1.0.0
+pyautogen
+pandas
+duckdb
+python-dotenv
+openpyxl
+matplotlib
+seaborn
+pyautogen[gemini]
+google-generativeai
+vertexai 
+pillow
+ag2[gemini]
